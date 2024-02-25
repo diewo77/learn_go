@@ -1,0 +1,11 @@
+go 1.22.0
+
+use ./pointers
+
+use ./struct
+
+use ./dictionaries
+
+use ./depinject
+
+use ./mock
